@@ -1,0 +1,3 @@
+http://itscompiling.eu/2017/01/12/precompiled-headers-cpp-compilation/
+
+create precompiled headers of NEAT or a DLL so that the program can be compiled on windows/debian
